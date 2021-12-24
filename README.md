@@ -2,7 +2,7 @@
 numerical methods and codes used in the Aerodynamics course project
 
 codes by
-Arnaud Saison
-Guilain Ernotte
-Cédrick De Block
+Arnaud Saison,
+Guilain Ernotte,
+Cédrick De Block, and
 Armand Yotat
